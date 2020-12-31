@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "retro-diner"
+    }
+  },
+  "defaultProject": "retro-diner",
+  "cli": {
+    "analytics": false
+  }
 }
